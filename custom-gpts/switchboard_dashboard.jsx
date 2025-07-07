@@ -1,25 +1,24 @@
-// Switchboard Dashboard App (Initial Scaffold)
-import React from 'react';
+// Switchboard Dashboard App (Live Log Sync)
+import React, { useEffect, useState } from 'react';
 import { Card, CardContent } from '@/components/ui/card';
-import { Button } from '@/components/ui/button';
 import { Progress } from '@/components/ui/progress';
 
 export default function SwitchboardDashboard() {
-  const phases = [
-    { id: 1, label: 'System Cleanup', status: 'in progress' },
-    { id: 2, label: 'Service Health Reset', status: 'pending' },
-    { id: 3, label: 'Security Sweep', status: 'pending' },
-    { id: 4, label: 'Compliance Validation', status: 'pending' },
-    { id: 5, label: 'Outreach Reset', status: 'pending' },
-    { id: 6, label: 'Marketing Cleanup', status: 'pending' },
-    { id: 7, label: 'Sales Pipeline Refresh', status: 'pending' },
-    { id: 8, label: 'Dashboard UI Integration', status: 'pending' },
-    { id: 9, label: 'Switchboard Control Build', status: 'pending' }
-  ];
+  const [phases, setPhases] = useState([]);
+
+  useEffect(() => {
+    fetch('/logs/house_cleaning_execution.json')
+      .then(res => res.json())
+      .then(data => setPhases(data.phases || []))
+      .catch(err => console.error('Failed to load mission log:', err));
+  }, []);
 
   return (
     <div className="grid grid-cols-1 gap-4 p-6">
       <h1 className="text-2xl font-bold">System Master Workflow</h1>
+      {phases.length === 0 && (
+        <div className="text-gray-500 text-center">No mission data available.</div>
+      )}
       {phases.map(phase => (
         <Card key={phase.id} className="rounded-2xl shadow-md">
           <CardContent className="p-4">
