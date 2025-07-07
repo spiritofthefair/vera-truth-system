@@ -1,0 +1,7 @@
+{
+  "name": "MetaOrchestratorGPT",
+  "description": "GPT delegation controller for Truth System missions.",
+  "commands": ["HouseCleaningMission"],
+  "trigger": "file:logs/house_cleaning_execution.json",
+  "status": "awaiting-delegation"
+}
