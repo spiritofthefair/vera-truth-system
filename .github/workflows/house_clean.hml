@@ -1,0 +1,25 @@
+name: House Cleaning
+
+on:
+  push:
+    paths:
+      - 'codex/**'
+  workflow_dispatch:
+
+jobs:
+  clean:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Run Vera Codex
+        run: |
+          cd codex
+          npm install fs-extra
+          node vera.js

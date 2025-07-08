@@ -1,0 +1,27 @@
+{
+  "workspace_repo": "/workspace/vera-truth-system",
+  "codex_setup_script": [
+    "cd /workspace/vera-truth-system",
+    "pip install -r /workspace/vera-truth-system/requirements.txt || true",
+    "npm install --prefix /workspace/vera-truth-system || true",
+    "nohup python3 /workspace/vera-truth-system/api/vera_api_production.py > /workspace/vera-truth-system/logs/api_startup.log 2>&1 &"
+  ],
+  "environment_variables": {
+    "AUTHORIZED_KEYS": "VERA_GPT_KEY_9283",
+    "LOG_LEVEL": "INFO",
+    "MAX_FILE_SIZE": "10MB",
+    "RATE_LIMIT": "100"
+  },
+  "verifications": {
+    "health_check": "http://localhost:8080/health",
+    "instruction_post": "http://localhost:8080/api/gpt-instruction"
+  },
+  "instructions": [
+    "Paste setup script into the Codex UI 'Setup Script' box.",
+    "Add each environment variable under 'Environment Variables'.",
+    "Ensure the container image is set to `universal` (Ubuntu 24.04).",
+    "Make sure the repo is cloned to: /workspace/vera-truth-system",
+    "Enable terminal if you want to monitor logs live.",
+    "Start backend automatically using nohup, logs routed to: /workspace/vera-truth-system/logs/api_startup.log"
+  ]
+}
