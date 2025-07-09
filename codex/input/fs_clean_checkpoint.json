@@ -1,0 +1,22 @@
+{
+  "task": "fs_clean_checkpoint",
+  "fs_level": 5,
+  "esp_mode": "ESP²",
+  "actions": [
+    {
+      "type": "verify_file_system",
+      "target": "E:/LocalClone/Vera",
+      "log_to": "logs/fs_clean_output.log"
+    },
+    {
+      "type": "scan_duplicates",
+      "scope": "Scripts",
+      "recursive": true
+    },
+    {
+      "type": "report",
+      "format": "log",
+      "destination": "logs/fs_clean_output.log"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "workspace_repo": "/workspace/vera-truth-system",
+  "verified_local_clone_path": "E:\\LocalClone\\Vera\\vera-truth-system",
+  "codex_setup_script": [
+    "cd /workspace/vera-truth-system",
+    "pip install -r /workspace/vera-truth-system/requirements.txt || true",
+    "npm install --prefix /workspace/vera-truth-system || true",
+    "nohup python3 /workspace/vera-truth-system/api/vera_api_production.py > /workspace/vera-truth-system/logs/api_startup.log 2>&1 &"
+  ],
+  "environment_variables": {
+    "AUTHORIZED_KEYS": "VERA_GPT_KEY_9283",
+    "LOG_LEVEL": "INFO",
+    "MAX_FILE_SIZE": "10MB",
+    "RATE_LIMIT": "100"
+  },
+  "verifications": {
+    "health_check": "http://localhost:8080/health",
+    "instruction_post": "http://localhost:8080/api/gpt-instruction"
+  },
+  "important_paths": {
+    "api_entry": "/workspace/vera-truth-system/api/vera_api_production.py",
+    "log_output": "/workspace/vera-truth-system/logs/api_startup.log",
+    "dashboard_html": "/workspace/vera-truth-system/vera-dashboard/Dashboards/Primary/vera_mach6_dashboard_live.html",
+    "truth_config": "/workspace/vera-truth-system/Config/vera_truth_config.json",
+    "certification": "/workspace/vera-truth-system/Config/truth_certification.json"
+  },
+  "instructions": [
+    "Paste all 'codex_setup_script' lines into the Codex UI 'Setup Script' box.",
+    "Add each key-value pair in 'environment_variables' to the Codex UI under 'Environment Variables'.",
+    "Ensure the container image is 'universal' (Ubuntu 24.04 base).",
+    "Enable interactive terminal for live debugging/logs."
+  ]
+}
