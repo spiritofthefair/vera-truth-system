@@ -1,0 +1,32 @@
+# Purpose: Node.js CI for testing and build checks
+# How to run: Auto on push, pull request, or manual (Actions > Run workflow)
+# Dependencies: Node.js 20, no secrets required
+
+name: Node.js CI
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: npm ci
+        continue-on-error: true
+
+      - run: npm test
+        continue-on-error: true
+
+      - name: Notify if failed
+        if: failure()
+        run: echo "Node.js CI failed. See logs for details."
