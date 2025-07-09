@@ -1,0 +1,16 @@
+I want you to write a C# (or Python, or PowerShell—your choice!) automation script/tool that:
+
+Recursively scans all files and folders on all connected drives.
+Searches for key information, configuration, code, credentials, and project data that might be needed for any ongoing or future automation, scripting, or documentation.
+Builds and maintains a live, persistent index or database (like info_index.json or SQLite) mapping every relevant keyword, config, or hint to its exact file and line/section.
+Never deletes files; instead, repurposes, organizes, and tags them for later use or reference.
+Automatically refreshes and restarts itself if there is an error, stall, or crash, so the process never stops (like a river).
+Updates a live dashboard (webpage or console UI) so I can see progress, system heartbeat, and new discoveries in real time.
+Handles errors by logging and quarantining them for later review, never stopping the main flow.
+Saves the locations of all key information it finds to the index/database for quick lookup by Copilot, me, or any automation.
+Repeats the discovery/indexing/consolidation process forever, or until I manually stop it.
+You may use advanced file watchers, multi-threading, or async/await to keep the system quick and responsive.
+If any configuration or information is missing from the automation, you must search the system for it before ever asking me for manual input.
+Show me the main script, and describe any supporting files or settings I should add to my project to make it run as a “Go Live” always-on service.
+
+Bonus: If possible, launch a minimal local web server (like ASP.NET, Flask, or Kestrel) to serve the dashboard live at http://localhost:7270/ just like when I hit F5 in Visual Studio.
