@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0fa7c526-ae7c-4814-aeda-24cd14f7fb00</dc:identifier>
+        <dc:title>Workbook--Rebuilding the Famil</dc:title>
+        <dc:creator opf:file-as="Russell, Shane" opf:role="aut">Shane Russell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;What happened to family?&lt;/strong&gt;&lt;br&gt;We have more technology, more options, and more distractions than ever — yet somehow, we feel more divided, exhausted, and emotionally disconnected than any generation before us.&lt;/p&gt;
+&lt;p&gt;Parents are overwhelmed.&lt;br&gt;Children are anxious.&lt;br&gt;Families are scattered, fractured, and running on fumes.&lt;/p&gt;
+&lt;p&gt;What if we’ve mistaken progress for disconnection? What if what we’ve lost — rhythm, truth, presence, partnership — is what we need most?&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Rebuilding the Family Unit: From Fractured to Unstoppable&lt;/em&gt; is a raw, practical, and deeply personal blueprint for restoring the most important structure in your life: family. Whether you're co-parenting, navigating blended households, or raising kids in a chaotic culture, this book gives you the tools and frameworks to lead your family forward — no matter what you’ve come from.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Inside, you’ll learn:&lt;/strong&gt;&lt;br&gt;• Why families repeat the same patterns — and how to break them&lt;br&gt;• How to co-parent with structure, even if you're no longer together&lt;br&gt;• How to merge different upbringings, belief systems, or cultural expectations&lt;br&gt;• How to raise emotionally safe children — in an emotionally unsafe world&lt;br&gt;• How to anchor your home in rhythm, boundaries, and generational clarity&lt;/p&gt;
+&lt;p&gt;This is more than a book — it’s a system for rebuilding.&lt;br&gt;A call to stop waiting and start leading.&lt;br&gt;One value. One rhythm. One truth at a time.&lt;/p&gt;
+&lt;p&gt;🛠 You don’t need everyone to change. You just need someone to go first. Let that be you.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Social Impact Solutions LLC</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:subject>Family systems blueprint</dc:subject>
+        <dc:subject>Co-parenting strategies for divorced parents</dc:subject>
+        <dc:subject>Rebuilding families after trauma</dc:subject>
+        <dc:subject>Parenting and relationship healing</dc:subject>
+        <dc:subject>Raising emotionally safe children</dc:subject>
+        <dc:subject>Generational healing and legacy building</dc:subject>
+        <dc:subject>Family rhythm routines and structure</dc:subject>
+        <meta name="calibre:series" content="SIS Family Systems Toolkit"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-08-31T12:31:18.679390+00:00"/>
+        <meta name="calibre:title_sort" content="Workbook--Rebuilding the Famil"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

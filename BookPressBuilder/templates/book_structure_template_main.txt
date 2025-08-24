@@ -1,0 +1,293 @@
+---
+title: "BOOK TITLE"
+author: "AUTHOR NAME"
+publisher: "PUBLISHER NAME"
+date: YYYY-MM-DD
+cover-image: images/front_cover.jpg
+language: "en"
+rights: "© YEAR AUTHOR NAME. All rights reserved."
+description: "BOOK DESCRIPTION"
+---
+
+# Book Title
+
+*Subtitle (if any)*
+
+By Shane Russell  
+Social Impact Solutions LLC  
+Gold Hill, Oregon  
+2025
+
+---
+
+## Copyright Page
+
+Copyright © YEAR Shane Russell
+
+All rights reserved. No part of this book may be reproduced, stored in a retrieval system, or transmitted by any means—electronic, mechanical, photocopying, recording, or otherwise—without prior written permission of the author.
+
+**Published by Social Impact Solutions LLC**  
+Gold Hill, OR | [socialimpactsolutions.biz](https://socialimpactsolutions.biz)
+
+Printed in the United States of America.
+
+ISBN: [Your ISBN here]
+
+Cover Design: Social Impact Solutions LLC Creative Division  
+Interior Layout: Social Impact Solutions LLC Publishing Team  
+First Edition 
+Current Edition Number
+
+This book is a work of nonfiction. Names and details have been changed where appropriate to preserve privacy and clarity.
+
+For licensing inquiries, group use, or reproduction permissions, contact:  
+LEGAL DEPARTMENT 
+
+CONTACT: **sislegal@socialimpactsolutions.biz**
+
+---
+
+## Dedication
+
+[Dedication text]
+
+---
+
+## Acknowledgments
+
+[Acknowledgments text]
+
+---
+
+# Table of Contents
+
+### How to Use This Book(#how-to-use-book) ............................... i
+
+### Workbook Add-On(#workbook-addon) ............................... x
+
+### Preface(#preface) ............................... x
+
+### Introduction
+
+- [Intro Section Title](#intro-section-title) ............. x
+
+---
+
+### PART I: Section Title
+
+1. [Chapter 1 Title](#chapter-1-title) ............. 1  
+2. [Chapter 2 Title](#chapter-2-title) ............. XX  
+3. [Chapter 3 Title](#chapter-3-title) ............. XX  
+...
+
+---
+
+### PART II: Section Title
+
+X. [Chapter X Title](#chapter-X-title) ............. XX  
+...
+
+---
+
+### PART III: Section Title
+
+X. [Chapter X Title](#chapter-X-title) ............. XX 
+...
+
+---
+
+### PART IV: Section Title
+
+X. [Chapter X Title](#chapter-X-title) ............. XX 
+...
+
+---
+
+### Conclusion
+
+- [Conclusion Title](#conclusion-title) ............. XX
+
+---
+
+### Appendix
+
+A. [Appendix A Title](#appendix-a-title) ............. XX  
+B. [Appendix B Title](#appendix-b-title) ............. XX  
+...
+
+---
+
+### Resources
+
+- [Resources](#resources) ................................................................. XX  
+- [Launch & Coming Soon](#launch-coming-soon) ............................................. XX  
+- [Continue the Journey](#continue-the-journey) ............................................ XX  
+- [About the Author](#about-the-author) .................................................... XX  
+- [Publisher Information](#publisher-information) .......................................... XX  
+- [Glossary: Term Definitions](#glossary-term-definitions) .................................. XX  
+- [Index: Topic](#index-topic) .............................................................. XX 
+
+---
+
+<!-- Repeat for Each Primary Section -->
+# How to Use This Book 
+
+<!-- [Instructions for use] -->
+### Core theme, hook, and purpose
+
+---
+
+### Expansion and deeper context
+
+---
+
+# 📓 Workbook Add-On
+
+[Workbook Add-On description and info]
+
+---
+
+## Preface
+
+[Preface text]
+
+---
+
+# Introduction
+
+### Core theme, hook, and purpose
+
+---
+
+### Expansion and deeper context
+
+---
+
+<!-- Repeat for Each Chapter -->
+# Chapter 1: Chapter 1 Title
+
+### Core teaching, story, or principle
+
+---
+
+### Expansion, depth, examples, or applications
+
+...
+
+# Chapter XX: Chapter XX Title
+
+[Chapter XX content]
+
+---
+
+# Conclusion
+
+[Conclusion content]
+
+---
+
+# Appendix
+
+### A. Appendix A Title
+
+[Appendix content]
+
+---
+
+# Appendix
+
+### B. Appendix B Title
+
+[Appendix content]
+...
+
+# Resources
+
+Powered by SIS LLC | [www.socialimpactsolutions.biz/resources](https://www.socialimpactsolutions.biz/resources)  
+
+[Resources text]
+
+---
+
+### 📥 Downloadable Tools & Printables
+
+[List of tools, access link]
+
+---
+
+### 📓 Workbook Add-On
+
+[Workbook Add-On description, link]
+
+---
+
+### Companion Workbook
+
+[Companion Workbook description, link]
+
+---
+
+### 📧 Join the [Your Brand] Family Network
+
+[Join/Subscribe info, link]
+
+---
+
+### 📚 Recommended Reading
+
+[List of recommendations]
+
+---
+
+### 📞 Professional & Crisis Support
+
+[List of support resources]
+
+---
+
+# About the Author
+
+[Short bio, contact info]
+
+👉 [www.socialimpactsolutions.biz/contact](https://www.socialimpactsolutions.biz/contact)
+
+---
+
+# Publisher Information
+
+**Social Impact Solutions LLC**  
+P.O. Box 39, Gold Hill, Oregon 97525
+[www.socialimpactsolutions.biz](https://www.socialimpactsolutions.biz)  
+
+© YEAR Social Impact Solutions LLC  
+All rights reserved.   
+
+Part of the [Brand/Series Name].
+
+---
+
+# Glossary
+
+[Glossary terms]
+
+---
+
+# Index
+
+*(page numbers refer to print edition)*
+
+[Index content]
+
+---
+
+# Continue the Journey
+
+[Next steps, offers, other books, etc.]
+
+---
+
+## 💬 If This Book Helped You
+
+[Section content]
+
+---

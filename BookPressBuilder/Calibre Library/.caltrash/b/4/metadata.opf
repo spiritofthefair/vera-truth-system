@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d6367c5a-4044-410c-8d7b-a4fa22b14ff2</dc:identifier>
+        <dc:title>Rebuilding the Family Unit - Fi</dc:title>
+        <dc:creator opf:file-as="Russell, Shane" opf:role="aut">Shane Russell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Social Impact Solutions LLC</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:subject>Family systems blueprint</dc:subject>
+        <dc:subject>Co-parenting strategies for divorced parents</dc:subject>
+        <dc:subject>Rebuilding families after trauma</dc:subject>
+        <dc:subject>Parenting and relationship healing</dc:subject>
+        <dc:subject>Raising emotionally safe children</dc:subject>
+        <dc:subject>Generational healing and legacy building</dc:subject>
+        <dc:subject>Family rhythm routines and structure</dc:subject>
+        <meta name="calibre:series" content="SIS Family Systems Toolkit"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-08-25T13:44:36.015481+00:00"/>
+        <meta name="calibre:title_sort" content="Rebuilding the Family Unit - Fi"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

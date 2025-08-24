@@ -1,0 +1,1 @@
+Create a clean, typography-first cover. No embedded text beyond title/author. Kindle aspect ~1.6:1. Export to cover.jpg.

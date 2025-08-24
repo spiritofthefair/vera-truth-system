@@ -1,0 +1,29 @@
+html, body {
+    font-family: "Georgia", "Times New Roman", serif;
+    font-size: 1em;
+    line-height: 1.5;
+    color: #222;
+    background: #fff;
+    margin: 0;
+    padding: 0;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Georgia", "Times New Roman", serif;
+    font-weight: bold;
+    color: #111;
+}
+p {
+    margin: 0 0 1.2em 0;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 1em auto;
+}
+blockquote {
+    border-left: 3px solid #ccc;
+    margin-left: 0;
+    padding-left: 1em;
+    color: #555;
+}

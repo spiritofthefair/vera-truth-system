@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ea7b95a4-e1bb-4d52-8e7d-de6b8d78eade</dc:identifier>
+        <dc:title>This for That</dc:title>
+        <dc:creator opf:file-as="Russell, Shane" opf:role="aut">Shane Russell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;What if the reason your relationships feel one-sided… is because they are?&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;We’ve been told that love should be unconditional, that boundaries are selfish, and that keeping score is toxic.&lt;/p&gt;
+&lt;p&gt;But the truth is:&lt;/p&gt;
+&lt;p&gt;Every relationship is transactional.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;We’re all giving and receiving something — time, energy, attention, labor, safety, stability — whether we say it or not.&lt;/p&gt;
+&lt;p&gt;The problem isn’t the exchange.&lt;/p&gt;
+&lt;p&gt;The problem is pretending it doesn’t exist.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;This for That is a bold, honest, and practical blueprint for reclaiming clarity in modern relationships — romantic, professional, personal, and everything in between.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Inside, you’ll learn how to:&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Identify emotional debt before it destroys your peace&lt;/p&gt;
+&lt;p&gt;Define your role in any relationship — and stop over-functioning&lt;/p&gt;
+&lt;p&gt;Use structured repair scripts to reset trust after conflict&lt;/p&gt;
+&lt;p&gt;Build a personal code of integrity that protects your energy&lt;/p&gt;
+&lt;p&gt;Say “this is what I give — and this is what I expect” without guilt&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;If you’ve ever felt like you were doing all the work…&lt;/p&gt;
+&lt;p&gt;If you’ve ever stayed silent to keep the peace…&lt;/p&gt;
+&lt;p&gt;If you’ve ever given more than you got — and it cost you everything…&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;This book is your reset.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Written by Shane Russell, architect of the Truthwalk Library and creator of the SIS Personal Systems Toolkit, This for That isn’t just a book — it’s a system. A map for people tired of emotional guesswork. A structure for anyone ready to lead with truth.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;You don’t need everyone to understand.&lt;/p&gt;
+&lt;p&gt;You just need to define the deal.&lt;/p&gt;
+&lt;p&gt;Start here.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Published by Social Impact Solutions LLC&lt;/p&gt;
+&lt;p&gt;socialimpactsolutions.biz&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Social Impact Solutions LLC</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>transactional relationships</dc:subject>
+        <dc:subject>emotional clarity</dc:subject>
+        <dc:subject>personal boundaries</dc:subject>
+        <dc:subject>emotional debt</dc:subject>
+        <dc:subject>role structure</dc:subject>
+        <dc:subject>communication tools</dc:subject>
+        <dc:subject>repair scripts</dc:subject>
+        <dc:subject>personal integrity</dc:subject>
+        <dc:subject>system reset</dc:subject>
+        <dc:subject>relationship balance</dc:subject>
+        <dc:subject>Shane Russell</dc:subject>
+        <dc:subject>social impact solutions</dc:subject>
+        <dc:subject>truth-based relationships</dc:subject>
+        <meta name="calibre:series" content="SIS Family Systems Toolkit"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2025-08-26T22:11:24.187028+00:00"/>
+        <meta name="calibre:title_sort" content="This for That"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

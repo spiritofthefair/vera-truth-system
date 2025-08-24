@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">baff1cc7-3c57-47d0-8b89-936337c6cd68</dc:identifier>
+        <dc:title>Workbook--This for That</dc:title>
+        <dc:creator opf:file-as="Russell, Shane" opf:role="aut">Shane Russell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-08-28T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;🌟 If You Liked This Workbook…&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;If something in these pages gave you language, clarity, or strength — pass it forward.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Leave a Review&lt;/p&gt;
+&lt;p&gt;Your honest review helps others discover the book and signals this work matters.&lt;/p&gt;
+&lt;p&gt;👉 Review on Amazon or Goodreads.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Gift the System&lt;/p&gt;
+&lt;p&gt;Know someone navigating one-sided relationships or blurred roles?&lt;/p&gt;
+&lt;p&gt;- Share this workbook&lt;/p&gt;
+&lt;p&gt;- Send a favorite passage&lt;/p&gt;
+&lt;p&gt;- Invite them to complete it with you&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Start a Reset Circle&lt;/p&gt;
+&lt;p&gt;Use these tools as the structure for a small group, partner series, or family meetings.&lt;/p&gt;
+&lt;p&gt;One household leading with structure can reset an entire community.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;---&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Keep Building with SIS&lt;/p&gt;
+&lt;p&gt;📘 Explore titles &amp;amp; companion workbooks:&lt;/p&gt;
+&lt;p&gt;  www.socialimpactsolutions.biz/store&lt;/p&gt;
+&lt;p&gt;🧰 Download free tools &amp;amp; printables (ledgers, contracts, trackers):&lt;/p&gt;
+&lt;p&gt;  www.socialimpactsolutions.biz/resources&lt;/p&gt;
+&lt;p&gt;📧 Get subscriber-only tools, early chapter drops, and discounts:&lt;/p&gt;
+&lt;p&gt;  www.socialimpactsolutions.biz/subscribe&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Remember: Clarity creates freedom, fairness creates trust, and truth keeps love alive.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Social Impact Solutions LLC</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>self help</dc:subject>
+        <dc:subject>personal development</dc:subject>
+        <dc:subject>relationships</dc:subject>
+        <dc:subject>family systems</dc:subject>
+        <dc:subject>co parenting</dc:subject>
+        <dc:subject>transactional clarity</dc:subject>
+        <dc:subject>communication</dc:subject>
+        <dc:subject>boundaries</dc:subject>
+        <dc:subject>healing</dc:subject>
+        <dc:subject>trust</dc:subject>
+        <dc:subject>emotional resilience</dc:subject>
+        <dc:subject>personal growth</dc:subject>
+        <dc:subject>leadership</dc:subject>
+        <dc:subject>truth protocol</dc:subject>
+        <dc:subject>time management</dc:subject>
+        <dc:subject>social impact solutions</dc:subject>
+        <meta name="calibre:series" content="SIS Family Systems Toolkit"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2025-08-28T18:15:20.777904+00:00"/>
+        <meta name="calibre:title_sort" content="Workbook--This for That"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
