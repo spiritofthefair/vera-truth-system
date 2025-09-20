@@ -1,3 +1,14 @@
+# Gate: ignore everything at repo root except whitelisted project dirs/files
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/LICENSE
+!/.github/
+!/BookPressBuilder/
+!/truth-system/
+!/vera-dashboard/
+
 # ----------------------------
 # Node / JS defaults
 # ----------------------------
@@ -186,4 +197,4 @@ vera-truth-system/
 # Windows/MS artifacts
 msdia80.dll
 
-# Note: do NOT ignore *.zip, *.rtf, *.epub — these are tracked via Git LFS
+# Note: do NOT ignore *.zip, *.rtf, *.epub — tracked via Git LFS
