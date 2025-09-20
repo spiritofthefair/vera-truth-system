@@ -1,3 +1,4 @@
+<<<<<<< HEAD:vera-dashboard/public/manifest.json
 {
   "short_name": "React App",
   "name": "Create React App Sample",
@@ -23,3 +24,8 @@
   "theme_color": "#000000",
   "background_color": "#ffffff"
 }
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:33fdb99cc2cd3ad8e1815b18b7005eb3f58048990d80ee7c73aed28ab69a4e19
+size 517
+>>>>>>> 10e4101 (Initial Truth System 2IOS commit  Migration complete, FS + ESP verified.):truth-system/vera-dashboard/public/manifest.json
