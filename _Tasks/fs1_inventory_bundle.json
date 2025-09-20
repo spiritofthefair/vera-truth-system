@@ -1,0 +1,10 @@
+{
+  "bundle": "fs1_inventory_v4_3",
+  "description": "FS-1: Certified Inventory of C:\\Users\\shane under Truth Protocol v4.3.0",
+  "action": "run_script",
+  "script": "fs1_inventory_scan.ps1",
+  "parameters": {
+    "SourceRoot": "C:\\Users\\shane",
+    "OutputRoot": "C:\\Users\\shane\\My Drive\\LocalClone\\GitHub\\Vera\\Master\\_Logs"
+  }
+}
