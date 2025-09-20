@@ -1,3 +1,6 @@
+# ----------------------------
+# Node / JS defaults
+# ----------------------------
 # Logs
 logs
 *.log
@@ -84,9 +87,7 @@ dist
 
 # Gatsby files
 .cache/
-# Comment in the public line in if your project uses Gatsby and not Next.js
-# https://nextjs.org/blog/next-9-1#public-directory-support
-# public
+# public  # uncomment if using Gatsby (not Next.js)
 
 # vuepress build output
 .vuepress/dist
@@ -137,3 +138,52 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+
+# ----------------------------
+# Python / tooling
+# ----------------------------
+.venv/
+__pycache__/
+*.py[cod]
+
+
+# ----------------------------
+# OS/editor
+# ----------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+
+# ----------------------------
+# Repo-specific local/generated artifacts
+# ----------------------------
+# Generated index artifacts
+index_*.json
+indexes/
+master_workflow_log.jsonl
+vera_index_log.txt
+unify_checkpoint.json
+
+# Google Drive link files
+*.gdoc
+*.gsheet
+*.gslides
+
+# Local personal/utility folders (keep local, not in repo)
+personal/
+random txt files/
+nodejs-portable/
+vera-truth-system/
+
+# 2IOS local folders (not part of repo)
+2IOS Extracted/
+2IOS SYSTEM CORE/
+2IOS Security/
+2IOS System/
+
+# Windows/MS artifacts
+msdia80.dll
+
+# Note: do NOT ignore *.zip, *.rtf, *.epub — these are tracked via Git LFS
